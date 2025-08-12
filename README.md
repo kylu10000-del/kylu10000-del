@@ -2,7 +2,7 @@
 
 **`Iniciante na Programação`**
 
-Me chamo Felipe Gomes, tenho 20 anos. Atualmente, estou estudando Programação para área de JS. Gosto de tecnologia".
+"Me chamo Felipe Gomes, tenho 20 anos. Atualmente, estou estudando Programação para área de JS. Gosto de tecnologia".
 
 
 ---
